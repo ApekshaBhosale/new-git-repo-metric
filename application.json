@@ -6,11 +6,19 @@
   "evaluationVersion": 2,
   "pages": [
     {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "Page3",
+      "isDefault": false
+    },
+    {
+      "id": "Page4",
       "isDefault": false
     }
   ]
